@@ -1,4 +1,4 @@
-🔬 Single-cell RNA-seq Data Analysis README 🔬
+🔬 Single-cell RNA-seq Data Analysis  🔬
 
 🔍 Overview:
 This repository contains the analysis workflow for single-cell RNA-seq data, including preprocessing steps, visualization, and clustering.
