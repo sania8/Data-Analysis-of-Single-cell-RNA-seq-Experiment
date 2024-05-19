@@ -28,3 +28,4 @@ This repository contains the analysis workflow for single-cell RNA-seq data, inc
 For any inquiries or feedback, please contact email-id:saniav2711@gmail.com
 
 Happy analyzing! 🧬🔬
+Link to the streamlit app :https://sania8-analysis-of-rna-project-app-app-wwbnxe.streamlit.app/
