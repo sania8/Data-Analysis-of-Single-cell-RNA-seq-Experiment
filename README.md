@@ -17,8 +17,8 @@ This repository contains the analysis workflow for single-cell RNA-seq data, inc
 - 🛠️ Various visualization techniques and algorithms are employed to gain insights into the data.
 
 📁 Repository Structure:
-- 📂 data/ : Contains input data files(.h5 file)
-- 📂 notebooks/ : Jupyter notebooks for analysis(file for analysis .ipynb)
+- data : Contains input data files(.h5 file)
+- notebook : Jupyter notebooks for analysis(file for analysis .ipynb)
 
 🚀 Getting Started:
 1. Clone this repository.
